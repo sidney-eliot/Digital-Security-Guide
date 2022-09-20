@@ -1,13 +1,13 @@
+
+# Introduction
+A quick read, but complete guide to being seccure digitaly. Enjoy ...
+
 # Table of Content
-- [Introduction](#Introduction-)
 - [Network Level Security](#Network-Level-Security-)
 - [Device Level Security](#Device-Level-Security-)
 - [Account Level Security](#Account-Level-Security-)
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
 - [Other helpful resources](#Other-helpful-resources)
-
-# Introduction [^](#Table-of-Content)
-A quick read, but complete guide to being seccure digitaly. Enjoy ...
 
 # Network Level Security [^](#Table-of-Content)
 
