@@ -7,7 +7,7 @@
 - [Other helpful resources](#Other-helpful-resources)
 
 # Introduction [^](#Table-of-Content)
-A quick read, but complete guide to being seccure digitaly.
+A quick read, but complete guide to being seccure digitaly. Enjoy ...
 
 # Network Level Security [^](#Table-of-Content)
 
