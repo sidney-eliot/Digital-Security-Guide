@@ -7,7 +7,7 @@
 - [Other helpful resources](#Other-helpful-resources)
 
 # Introduction [^](#Table-of-Content)
-No one likes gettings hacked or losing data, so give this a read and with a bit of common sense never be a victim
+A quick read, but complete guide to being seccure digitaly.
 
 # Network Level Security [^](#Table-of-Content)
 
