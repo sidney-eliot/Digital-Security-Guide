@@ -65,6 +65,7 @@ Use add blocker to avoid malicious pop ups and code injections. Maybe also disab
 - Booting into another OS on another drive connected to the pc, and from there removing the threat on the windows system
 
 # Other helpful resources [^](#Table-of-Content)
+Definitly worth checking out, also has some stuff not covered here relating browsing safely and email clients
 
 - https://www.makeuseof.com/online-browsing-security-advice/
 - https://www.makeuseof.com/tag/online-security-tips/
