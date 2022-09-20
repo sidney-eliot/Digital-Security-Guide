@@ -67,3 +67,4 @@ Use add blocker to avoid malicious pop ups and code injections. Maybe also disab
 # Links [^](#Table-of-Content)
 
 - https://www.makeuseof.com/online-browsing-security-advice/
+- https://www.makeuseof.com/tag/online-security-tips/
