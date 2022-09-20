@@ -4,7 +4,7 @@
 - [Device Level Security](#Device-Level-Security-)
 - [Account Level Security](#Account-Level-Security-)
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
-- [Links](#Links)
+- [Other helpful resources](#Other-helpful-resources)
 
 # Introduction [^](#Table-of-Content)
 No one likes gettings hacked or losing data, so give this a read and with a bit of common sense never be a victim
@@ -44,7 +44,7 @@ This is software the user triggers either because he thinks its a good time to d
 ### Strong password
 Use at least 16 digit password with a variety of symbols, numbers, letters and capitalized letters. Password managers make this allot easier, I recommend Bitwarden. It's also important to know which passwords are the most important. The number one most important password is the email account password followed by the recovery email account password another essential password is that for the password manager. Keep these passwords strong and maybe not digital as well keeping multiple backups of them.
 
-### Use 2FA
+### Use Two-Factor Authentication (2FA)
 Or Two factor authentication is essential and makes leaked passwords not that much of a threat. The best 2FA options are 2FA apps followed by email followed by SMS. SMS is the least safe of these three because through social engineering the phone company can be tricked.
 
 
@@ -64,7 +64,7 @@ Use add blocker to avoid malicious pop ups and code injections. Maybe also disab
 - Instead of booting normally booting into safe boot is often good (needs windows safe boot options configured correctly)
 - Booting into another OS on another drive connected to the pc, and from there removing the threat on the windows system
 
-# Links [^](#Table-of-Content)
+# Other helpful resources [^](#Table-of-Content)
 
 - https://www.makeuseof.com/online-browsing-security-advice/
 - https://www.makeuseof.com/tag/online-security-tips/
