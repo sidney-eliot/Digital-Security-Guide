@@ -1,3 +1,6 @@
+# Introduction
+No one likes gettings hacked or losing data, so give this a read and with a bit of common sense never be a victim
+
 # Network Level Security
 
 ### MAC Filters
