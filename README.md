@@ -1,6 +1,6 @@
 
 # Introduction
-A quick read, but complete guide to being seccure digitaly. Enjoy ...
+A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 
 # Table of Content
 - [Network Level Security](#Network-Level-Security-)
