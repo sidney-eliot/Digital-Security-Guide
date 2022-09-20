@@ -48,7 +48,7 @@ Use at least 16 digit password with a variety of symbols, numbers, letters and c
 Or Two factor authentication is essential and makes leaked passwords not that much of a threat. The best 2FA options are 2FA apps followed by email followed by SMS. SMS is the least safe of these three because through social engineering the phone company can be tricked.
 
 
-### Check URL/Domain Name
+### Check URL/ Domain Name
 - URL's can have letters flipped and be a complete clone of the real page. As well as different URL's the domain name can also be different.
 - Use bookmarks instead of searching sites through google.
 
@@ -56,7 +56,7 @@ Or Two factor authentication is essential and makes leaked passwords not that mu
 Use add blocker to avoid malicious pop ups and code injections. Maybe also disable java script but this will break some website java script features
 
 # Hunting For Possible Threats [^](#Table-of-Content)
-- Use task manager(Process tab, Performance tab and Details tab)
+- Use task manager (Process tab, Performance tab and Details tab)
 - Check windows logs
 - Use "On demand" Antivirus Software
 - Turn off network
