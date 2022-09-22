@@ -7,7 +7,7 @@ A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 - [Device Level Security](#Device-Level-Security-)
 - [Account Level Security](#Account-Level-Security-)
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
-- [Other helpful resources](#Other-helpful-resources)
+- [Other Helpful Resources](#Other-helpful-resources)
 
 # Network Level Security [^](#Table-of-Content)
 
@@ -64,7 +64,7 @@ Use add blocker to avoid malicious pop ups and code injections. Maybe also disab
 - Instead of booting normally booting into safe boot is often good (needs windows safe boot options configured correctly)
 - Booting into another OS on another drive connected to the pc, and from there removing the threat on the windows system
 
-# Other helpful resources [^](#Table-of-Content)
+# Other Helpful Resources [^](#Table-of-Content)
 Definitly worth checking out, also has some stuff not covered here relating browsing safely and email clients
 
 - https://www.makeuseof.com/online-browsing-security-advice/
