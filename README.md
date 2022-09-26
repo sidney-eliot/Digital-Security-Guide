@@ -27,7 +27,7 @@ If you mostly only use LAN maybe think about configuring the router to only use 
 WPA 3 is a protocol used for the user to login to a network. WPA 3 personal makes a network have one password for every user. WPA 3 enterprise uses a radio server to have a separate login password an username for every user.
 
 ### Hide Network SSID
-Hiding the network SSID will make the network not appear when looking for networks and needs to be added by hand with the SSID. This is a double edges sword, it make it harder for the average person to find the network but those who know what they're doing will still be able to find hidden SSID networks. What makes this potentially dangerous is that those who find it will be very interested to try to penetrate the network, because it seems like a high value target that is trying to protect something. Not standing out of the crowd is most often the best.
+Hiding the network SSID will make the network not appear when looking for networks and needs to be added by hand with the SSID. This is a double edges sword however, it make it harder for the average person to find the network but those who know what they're doing will still be able to find networks with hidden SSID . What makes this potentially dangerous is that those who find it will be very interested to try to penetrate the network, because it seems like a high value target that is trying to protect something. Not standing out of the crowd is most often the best.
 
 # Device Level Security [^](#Table-of-Content)
 ### Updates
