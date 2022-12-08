@@ -7,7 +7,7 @@ A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 - [Device Level Security](#Device-Level-Security-)
 - [Account Level Security](#Account-Level-Security-)
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
-- [Other Helpful Resources](##other-helpful-resources-)
+- [Other Helpful Resources](#other-helpful-resources-)
 
 # Network Level Security [^](#Table-of-Content)
 
