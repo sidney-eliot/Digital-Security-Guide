@@ -71,7 +71,7 @@ Definitly worth checking out, also has some stuff not covered here relating brow
 - https://www.makeuseof.com/tag/online-security-tips/
 
 # ⚠️In Progress
-
+# Keepig your NAS safe
 # Keeping Your Email Safe
 Yes yes, one should have a strong password and 2FA on for ones email account. But bad things can happen even if people can't get into your email account. If anyone get's a hold of your email, has a bit of experience in scripting and some reason to harm you, they can easily create a bot that signs you up for thousands of accounts and news letters every minute, making your email acount unusable.
 
