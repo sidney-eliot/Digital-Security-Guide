@@ -69,3 +69,23 @@ Definitly worth checking out, also has some stuff not covered here relating brow
 
 - https://www.makeuseof.com/online-browsing-security-advice/
 - https://www.makeuseof.com/tag/online-security-tips/
+
+# ⚠️In Progress
+
+# Keeping Your Email Safe
+Yes yes, one should have a strong password and 2FA on for ones email account. But bad things can happen even if people can't get into your email account. If anyone get's a hold of your email, has a bit of experience in scripting and some reason to harm you, they can easily create a bot that signs you up for thousands of accounts and news letters every minute, making your email acount unusable.
+
+If this ever happens to you the motive for the attacker can be a couple of things. Firstly they maybe just want to mess with you, perhaps something you said online that they didn't like. Secondly it might be an attempt to discuise their actual plan, if they where to attack your PayPal account, you wouldn't see the warning email from PayPal because it would be buired by all the other emails. So if this attack happens to you, allways assume it's the latter. Time is of essense and you should act as quickly as possible, follow following steps in that order:
+   1. Sign into your PayPal account and remove your bank payment method
+   2. If it's a good time for calling and you have your bank account information at hand, call you bank. If not, skip this step. Tell them about what's happening. While waiting for them to put your call through continue with the next steps
+   3. 
+   4. Contact PayPal, Amazon, Your Bank and other important accounts of your's, saying that your email account is under attack. Use a different email account for contacting them
+   5. At this point it should be time to figure out if the hacker has access to your email account (password + email). If not, then create yourself a new email account and start migrating your most important accounts to this new email. (This step can also be done earlier)
+
+There is sadly no saving an account that has this attack happen to it, even if it stops for some days it might continue. This is because your email might be on a list that's being sold around by hackers.
+
+To prevent this from happening, there are a couple of precausions you can take.
+- Never share your email as plain text around, instead add spaces or do other creative things to your email. The way the bost work is that they serach the internet for strings with an @ symol in them. Another great way of sharing yourt email is via an image of your email, but with image to text AI this is also not to good of an option anymore
+- If you recieve an email from a mailing list never subscibed to, simply delete it and don't click unsubscribe
+- Use disposable emails for many of your accounts and only use your real email for bigger sites of companies you trust
+- Try to stay away from subscribing to mailing lists with your email. If it's sites you trust then it's ok
