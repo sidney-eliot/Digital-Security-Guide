@@ -6,6 +6,7 @@ A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 - [Network Level Security](#Network-Level-Security-)
 - [Server Level Security](#Server-Level-Security-)
 - [Device Level Security](#Device-Level-Security-)
+- [Browser Level Security](#Borwser-Level-Security-)
 - [Account Level Security](#Account-Level-Security-)
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
 - [Other Helpful Resources](#other-helpful-resources-)
@@ -39,6 +40,8 @@ This type antivirus software is always scanning the computer for threats and the
 
 ### "On demand" Antivirus Software
 This is software the user triggers either because one thinks it's a good time to do it again or because the user notices something is strange. One of the best on demand antivirus software is Malwarebytes. Windows also has an on demand scanner. However probably the best is [Tron](https://www.reddit.com/r/TronScript/wiki/downloads/), which is a combination of all of the best on demand virus scanners covered [here](https://www.youtube.com/watch?v=eVRKYftj-aA).
+
+# Browser Level Security [^](#Table-of-Contents)
 
 # Account Level Security [^](#Table-of-Contents)
 ### Strong password
