@@ -6,7 +6,7 @@ A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 - [Network Level Security](#Network-Level-Security-)
 - [Server Level Security](#Server-Level-Security-)
 - [Device Level Security](#Device-Level-Security-)
-- [Browser Level Security](#Borwser-Level-Security-)
+- [Browser Level Security](#Browser-Level-Security-)
 - [Account Level Security](#Account-Level-Security-)
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
 - [Other Helpful Resources](#other-helpful-resources-)
