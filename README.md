@@ -62,7 +62,7 @@ Use add blocker to avoid malicious pop ups and code injections. Maybe also disab
 - Use "On demand" Antivirus Software (e.g. Malwarebytes)
 - Turn off device network connection, or the router entirely so no other devices get infected
 - Restart PC (malicious threats can put things in auto start, so this could do more harm than good)
-- Instead of booting normally booting into safe boot is often good (needs windows safe boot options configured correctly)
+- Instead of booting normally booting into safe boot is often good (needs windows safe boot option to be enabled prior)
 - Booting into another OS on another drive connected to the pc, and from there removing the threat on the windows system
 
 # Other Helpful Resources [^](#Table-of-Contents)
