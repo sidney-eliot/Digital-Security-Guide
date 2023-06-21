@@ -2,7 +2,7 @@
 # Introduction
 A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 
-# Table of Content
+# Table of Contents
 - [Network Level Security](#Network-Level-Security-)
 - [Server Level Security](#Server-Level-Security-)
 - [Device Level Security](#Device-Level-Security-)
@@ -10,7 +10,7 @@ A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
 - [Other Helpful Resources](#other-helpful-resources-)
 
-# Network Level Security [^](#Table-of-Content)
+# Network Level Security [^](#Table-of-Contents)
 
 ### MAC Filters
 Use mac whitelists to avoid unwanted devices getting into the network. (Note that this is simply a hurdle and can by bypassed)
@@ -29,8 +29,8 @@ WPA 3 is a protocol used for the user to login to a network. WPA 3 personal make
 
 ### Hide Network SSID
 Hiding the network SSID will make the network not appear when looking for networks and needs to be added by hand with the SSID. This is a double edges sword however, it make it harder for the average person to find the network but those who know what they're doing will still be able to find networks with hidden SSIDs . What makes this potentially dangerous is that those who find it will be very interested to try to penetrate the network, because it seems like a high value target that is trying to protect something. Not standing out of the crowd is most often the best.
-# Server Level Security [^](#Table-of-Content)
-# Device Level Security [^](#Table-of-Content)
+# Server Level Security [^](#Table-of-Contents)
+# Device Level Security [^](#Table-of-Contents)
 ### Updates
 Always get newest updates of operation system and try to generally keep everything up to date.
 
@@ -41,7 +41,7 @@ This type antivirus software is always scanning the computer for threats and the
 This is software the user triggers either because he thinks its a good time to do it again or because the user notices something is strange. Here one of the best options is Malwarebytes. Windows also has a on demand scanner. However probably the best is [Tron](https://www.reddit.com/r/TronScript/wiki/downloads/) which is a combination of all of the best on demand virus scanner covered [here](https://www.youtube.com/watch?v=eVRKYftj-aA).
 
 
-# Account Level Security [^](#Table-of-Content)
+# Account Level Security [^](#Table-of-Contents)
 ### Strong password
 Use at least 16 digit password with a variety of symbols, numbers, letters and capitalized letters. Password managers make this allot easier, I recommend Bitwarden. It's also important to know which passwords are the most important. The number one most important password is the email account password followed by the recovery email account password another essential password is that for the password manager. Keep these passwords strong and maybe not digital as well keeping multiple backups of them.
 
@@ -56,7 +56,7 @@ Or Two factor authentication is essential and makes leaked passwords not that mu
 ### Use Add Blocker
 Use add blocker to avoid malicious pop ups and code injections. Maybe also disable java script but this will break some website java script features
 
-# Hunting For Possible Threats [^](#Table-of-Content)
+# Hunting For Possible Threats [^](#Table-of-Contents)
 - Use task manager (Process tab, Performance tab and Details tab)
 - Check windows logs
 - Use "On demand" Antivirus Software
@@ -65,14 +65,13 @@ Use add blocker to avoid malicious pop ups and code injections. Maybe also disab
 - Instead of booting normally booting into safe boot is often good (needs windows safe boot options configured correctly)
 - Booting into another OS on another drive connected to the pc, and from there removing the threat on the windows system
 
-# Other Helpful Resources [^](#Table-of-Content)
+# Other Helpful Resources [^](#Table-of-Contents)
 Definitly worth checking out, also has some stuff not covered here relating browsing safely and email clients
 
 - https://www.makeuseof.com/online-browsing-security-advice/
 - https://www.makeuseof.com/tag/online-security-tips/
 
 # ⚠️In Progress
-# Keepig your NAS safe
 # Keeping Your Email Safe
 Yes yes, one should have a strong password and 2FA on for ones email account. But bad things can happen even if people can't get into your email account. If anyone get's a hold of your email, has a bit of experience in scripting and some reason to harm you, they can easily create a bot that signs you up for thousands of accounts and news letters every minute, making your email acount unusable.
 
