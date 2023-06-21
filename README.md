@@ -59,7 +59,7 @@ Use add blocker to avoid malicious pop ups and code injections. Maybe also disab
 # Hunting For Possible Threats [^](#Table-of-Contents)
 - Use task manager (Process tab, Performance tab and Details tab)
 - Check windows logs
-- Use "On demand" Antivirus Software
+- Use "On demand" Antivirus Software (e.g. Malwarebytes)
 - Turn off network
 - Restart PC (malicious threats can put things in auto start, so this could do more harm than good)
 - Instead of booting normally booting into safe boot is often good (needs windows safe boot options configured correctly)
