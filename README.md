@@ -4,6 +4,7 @@ A quick read, but somewhat complete guide to being seccure digitaly. Enjoy ...
 
 # Table of Content
 - [Network Level Security](#Network-Level-Security-)
+- [Server Level Security](#Server-Level-Security-)
 - [Device Level Security](#Device-Level-Security-)
 - [Account Level Security](#Account-Level-Security-)
 - [Hunting For Possible Threats](#Hunting-For-Possible-Threats-)
@@ -27,8 +28,8 @@ If you mostly only use LAN maybe think about configuring the router to only use 
 WPA 3 is a protocol used for the user to login to a network. WPA 3 personal makes a network have one password for every user. WPA 3 enterprise uses a radio server to have a separate login password an username for every user.
 
 ### Hide Network SSID
-Hiding the network SSID will make the network not appear when looking for networks and needs to be added by hand with the SSID. This is a double edges sword however, it make it harder for the average person to find the network but those who know what they're doing will still be able to find networks with hidden SSID . What makes this potentially dangerous is that those who find it will be very interested to try to penetrate the network, because it seems like a high value target that is trying to protect something. Not standing out of the crowd is most often the best.
-
+Hiding the network SSID will make the network not appear when looking for networks and needs to be added by hand with the SSID. This is a double edges sword however, it make it harder for the average person to find the network but those who know what they're doing will still be able to find networks with hidden SSIDs . What makes this potentially dangerous is that those who find it will be very interested to try to penetrate the network, because it seems like a high value target that is trying to protect something. Not standing out of the crowd is most often the best.
+# Server Level Security [^](#Table-of-Content)
 # Device Level Security [^](#Table-of-Content)
 ### Updates
 Always get newest updates of operation system and try to generally keep everything up to date.
