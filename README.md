@@ -35,11 +35,10 @@ Hiding the network SSID will make the network not appear when looking for networ
 Always get newest updates of operation system and try to generally keep everything up to date.
 
 ### "On the hunt" Antivirus Software
-This type antivirus software is always scanning the computer for threats and there should only be one of these in use at the same time. The one windows has built in is great, enough and I recommend it vs free antivirus software. However paid antivirus software could be a bit better.
+This type antivirus software is always scanning the computer for threats and there should only be one of these in use at the same time. The Windows built in antivirus great and I recommend using it instead of free antivirus software. However paid antivirus software could be a bit better.
 
 ### "On demand" Antivirus Software
-This is software the user triggers either because he thinks its a good time to do it again or because the user notices something is strange. Here one of the best options is Malwarebytes. Windows also has a on demand scanner. However probably the best is [Tron](https://www.reddit.com/r/TronScript/wiki/downloads/) which is a combination of all of the best on demand virus scanner covered [here](https://www.youtube.com/watch?v=eVRKYftj-aA).
-
+This is software the user triggers either because one thinks it's a good time to do it again or because the user notices something is strange. One of the best on demand antivirus software is Malwarebytes. Windows also has an on demand scanner. However probably the best is [Tron](https://www.reddit.com/r/TronScript/wiki/downloads/), which is a combination of all of the best on demand virus scanners covered [here](https://www.youtube.com/watch?v=eVRKYftj-aA).
 
 # Account Level Security [^](#Table-of-Contents)
 ### Strong password
