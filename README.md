@@ -19,7 +19,7 @@ Use mac whitelists to avoid unwanted devices getting into the network. (Note tha
 Create a separate guest network, so you can better monitor what goes on in the main network. This also helps putting in place stricter security measurements without annoying guests, or maybe stricter measures for guests.
 
 ### Password
-Use a strong password, devices have remember network password so you won't have to enter the password often anyway. This in combo with guest network allows for you to have a very strong password for the normal network and one easier to type for the guest network. (Main network password: letter, number, symbol, >= 20 digits/ Guest network password: 3-5 word passphrase)
+Use a strong password, devices have remember network password so you won't have to enter the password often anyway. This in combo with guest network allows for you to have a very strong password for the normal network and one easier to type for the guest network. (Main network password: letters, numbers, symbols, >= 20 digits/ Guest network password: 3-5 word passphrase)
 
 ### Only LAN
 If you mostly only use LAN maybe think about configuring the router to only use LAN, this makes it nearly impossible for the network to be infiltrated.
