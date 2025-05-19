@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Ferien in Baden-Württemberg 2025
+BEGIN:VEVENT
+DTSTAMP:20250519T103604Z
+UID:6e50e8f6-000b-47ee-9baa-ae3410cc1c1a
+DTSTART;VALUE=DATE:20250414
+DTEND;VALUE=DATE:20250427
+DESCRIPTION:Osterferien 2025 in Baden-Württemberg - Importiert von Ferienw
+ iki
+SUMMARY:Osterferien
+URL:https://www.ferienwiki.de/ferientermine/2025/de/osterferien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T103604Z
+UID:7bbffab9-0c50-41dd-bee1-5bfee069d7b4
+DTSTART;VALUE=DATE:20250610
+DTEND;VALUE=DATE:20250621
+DESCRIPTION:Pfingstferien 2025 in Baden-Württemberg - Importiert von Ferie
+ nwiki
+SUMMARY:Pfingstferien
+URL:https://www.ferienwiki.de/ferientermine/2025/de/pfingstferien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T103604Z
+UID:ce4d3b12-02da-4834-a7be-13be0601f143
+DTSTART;VALUE=DATE:20250731
+DTEND;VALUE=DATE:20250914
+DESCRIPTION:Sommerferien 2025 in Baden-Württemberg - Importiert von Ferien
+ wiki
+SUMMARY:Sommerferien
+URL:https://www.ferienwiki.de/ferientermine/2025/de/sommerferien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T103604Z
+UID:c01103c6-fcd5-4847-be33-ba0ac2509cdc
+DTSTART;VALUE=DATE:20251027
+DTEND;VALUE=DATE:20251031
+DESCRIPTION:Herbstferien 2025 in Baden-Württemberg - Importiert von Ferien
+ wiki
+SUMMARY:Herbstferien
+URL:https://www.ferienwiki.de/ferientermine/2025/de/herbstferien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T103604Z
+UID:3004dc23-2170-4738-9b31-fb3362be24cf
+DTSTART;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251101
+DESCRIPTION:Herbstferien 2025 in Baden-Württemberg - Importiert von Ferien
+ wiki
+SUMMARY:Herbstferien
+URL:https://www.ferienwiki.de/ferientermine/2025/de/herbstferien
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T103604Z
+UID:38e3feb7-3fe0-414d-9c1e-2efac96a4a65
+DTSTART;VALUE=DATE:20251222
+DTEND;VALUE=DATE:20260106
+DESCRIPTION:Weihnachtsferien 2025 in Baden-Württemberg - Importiert von Fe
+ rienwiki
+SUMMARY:Weihnachtsferien
+URL:https://www.ferienwiki.de/ferientermine/2025/de/weihnachtsferien
+END:VEVENT
+END:VCALENDAR
